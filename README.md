@@ -1,4 +1,4 @@
-<img lign="center" width="300" src="imgs\logo.png">
+<img align="center" width="300" src="imgs\logo.png">
 
 ---
 
@@ -10,7 +10,7 @@
 
 <h2 align="center">📖Sobre</h2>
 
-<p align="center">Este projeto foi realizado como uma forma de testar minhas habilidades de copiar uma interfase que me fosse passada, por exemplo.
+<p align="center">Este projeto foi realizado como uma forma de testar minhas habilidades de copiar uma interface que me fosse passada, por exemplo.
 Ele é 100% responsivo incluindo a navbar. Todas as funcionalidade em Javascript que o site original tem estão funcionando perfeitamente nesse clone.</p>
 
 ---
